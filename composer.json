@@ -1,0 +1,1 @@
+{"name":"quickwebworks/wash-free","description":"Multi-location bike wash operations platform","type":"project","require":{"php":"^8.3","ext-pdo":"*","ext-curl":"*","ext-json":"*"},"suggest":{"ext-zip":"XLSX import","ext-simplexml":"XLSX import","ext-pdo_mysql":"MySQL production database","ext-pdo_sqlite":"Local demo and tests"}}
